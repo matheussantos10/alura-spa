@@ -12,13 +12,13 @@ Projeto de site sobre um salão de SPA!
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
--  HTML
--  SCSS
--  CSS
--  Git e Github
--  Vercel
+-   HTML
+-   SCSS
+-   CSS
+-   Git e Github
+-   Vercel
 
 ## 🖱 Página publicada
 
--  https://matheussantos10.github.io/alura-spa/
--  https://alura-spa-ruby.vercel.app/
+-   https://matheussantos10.github.io/alura-spa/
+-   https://alura-spa-ruby.vercel.app/
