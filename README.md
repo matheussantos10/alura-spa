@@ -13,9 +13,8 @@ Projeto de site sobre um salão de SPA!
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 -   HTML
--   SCSS
 -   CSS
--   Git e Github
+-   SCSS
 -   Vercel
 
 ## 🖱 Página publicada
